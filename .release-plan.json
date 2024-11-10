@@ -1,17 +1,8 @@
 {
   "solution": {
     "@nullvoxpopuli/eslint-configs": {
-      "impact": "minor",
-      "oldVersion": "4.2.0",
-      "newVersion": "4.3.0",
-      "constraints": [
-        {
-          "impact": "minor",
-          "reason": "Appears in changelog section :rocket: Enhancement"
-        }
-      ],
-      "pkgJSONPath": "./package.json"
+      "oldVersion": "4.3.0"
     }
   },
-  "description": "## Release (2024-11-01)\n\n@nullvoxpopuli/eslint-configs 4.3.0 (minor)\n\n#### :rocket: Enhancement\n* `@nullvoxpopuli/eslint-configs`\n  * [#671](https://github.com/NullVoxPopuli/eslint-configs/pull/671) Expose ember's config builder ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n\n#### Committers: 1\n- [@NullVoxPopuli](https://github.com/NullVoxPopuli)\n"
+  "description": "\n\n\n\n"
 }
