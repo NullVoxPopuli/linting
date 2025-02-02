@@ -5,7 +5,7 @@
     "lint:js": "eslint ."
   },
   "devDependencies": {
-    "eslint": "8.57.1",
+    "eslint": "9.19.0",
     "@nullvoxpopuli/eslint-configs": "workspace:../.."
   }
 }
