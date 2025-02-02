@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "@nullvoxpopuli/eslint-configs": "workspace:../..",
-    "eslint": "8.57.1",
+    "eslint": "9.19.0",
     "typescript": "^5.4.5"
   }
 }
